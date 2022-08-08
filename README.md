@@ -1,4 +1,4 @@
-# python-video-to-gif-converter
+# Video(mp4) to Gif converter
 
 ## How to use 
 
