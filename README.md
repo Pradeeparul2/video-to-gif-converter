@@ -15,7 +15,7 @@
 		# Mac OS / Linux
 		$ source myvenv/bin/activate
 		
-		#windows
+		# windows
 		$ myvenv\Scripts\activate
 		
 
